@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="vi" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lâm Chí Lộc — Fullstack Developer (MERN + AI)</title>
+    <meta name="description" content="Fullstack Developer (MERN + AI). Tôi xây sản phẩm từ database đến model AI chạy local." />
+    <meta name="theme-color" content="#0B0D12" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Lâm Chí Lộc — Fullstack Developer (MERN + AI)" />
+    <meta property="og:description" content="Tôi xây sản phẩm từ database đến model AI chạy local." />
+    <meta property="og:image" content="/me.webp" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap"
+    />
+    <script>
+      // Áp theme trước khi render để không bị nháy màu
+      try {
+        if (localStorage.getItem('theme') === 'light') document.documentElement.classList.replace('dark', 'light');
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

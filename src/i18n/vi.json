@@ -1,0 +1,49 @@
+{
+  "nav": { "about": "Về tôi", "stack": "Stack", "projects": "Dự án", "journey": "Hành trình", "contact": "Liên hệ" },
+  "hero": {
+    "available": "available for work",
+    "viewProjects": "Xem dự án",
+    "downloadCv": "Tải CV",
+    "terminalHint": "để mở terminal — thử gõ help"
+  },
+  "about": {
+    "title": "Về tôi",
+    "stats": { "projects": "dự án", "tech": "công nghệ", "layers": "tầng stack", "models": "loại model AI chạy local" }
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "subtitle": "Di chuột (hoặc focus) vào một công nghệ để xem dự án nào đang dùng nó.",
+    "usedIn": "đang chạy trong"
+  },
+  "projects": {
+    "title": "Dự án nổi bật",
+    "subtitle": "Bấm vào một thẻ để xem chi tiết.",
+    "demo": "Demo",
+    "code": "Code",
+    "details": "Chi tiết",
+    "problem": "Vấn đề",
+    "solution": "Giải pháp",
+    "architecture": "Kiến trúc",
+    "learned": "Điều tôi học được",
+    "close": "Đóng"
+  },
+  "journey": { "title": "Hành trình", "subtitle": "Mỗi dự án là một bước nâng cấp." },
+  "contact": {
+    "big": "Cùng làm việc nhé",
+    "title": "Cùng xây một thứ gì đó nhé.",
+    "subtitle": "Mình đang mở cho cơ hội fullstack hoặc các dự án có AI. Phản hồi trong vòng 24 giờ.",
+    "name": "Tên",
+    "email": "Email",
+    "message": "Nội dung",
+    "send": "Gửi tin nhắn",
+    "copy": "Copy email",
+    "copied": "Đã copy!",
+    "errName": "Vui lòng nhập tên.",
+    "errEmail": "Email chưa hợp lệ.",
+    "errMessage": "Nội dung tối thiểu 10 ký tự.",
+    "opened": "Đã mở ứng dụng email của bạn."
+  },
+  "footer": { "built": "built with React + Vite", "deploy": "last deploy" },
+  "theme": { "toLight": "Chuyển sang giao diện sáng", "toDark": "Chuyển sang giao diện tối" },
+  "skip": "Bỏ qua đến nội dung chính"
+}

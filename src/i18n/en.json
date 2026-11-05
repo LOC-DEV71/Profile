@@ -1,0 +1,49 @@
+{
+  "nav": { "about": "About", "stack": "Stack", "projects": "Projects", "journey": "Journey", "contact": "Contact" },
+  "hero": {
+    "available": "available for work",
+    "viewProjects": "View projects",
+    "downloadCv": "Download CV",
+    "terminalHint": "to open the terminal — try help"
+  },
+  "about": {
+    "title": "About",
+    "stats": { "projects": "projects", "tech": "technologies", "layers": "stack layers", "models": "local AI model types" }
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "subtitle": "Hover (or focus) a technology to see which projects run on it.",
+    "usedIn": "running in"
+  },
+  "projects": {
+    "title": "Featured projects",
+    "subtitle": "Click a card for the details.",
+    "demo": "Demo",
+    "code": "Code",
+    "details": "Details",
+    "problem": "Problem",
+    "solution": "Solution",
+    "architecture": "Architecture",
+    "learned": "What I learned",
+    "close": "Close"
+  },
+  "journey": { "title": "Journey", "subtitle": "Every project was an upgrade." },
+  "contact": {
+    "big": "Let’s work together",
+    "title": "Let’s build something.",
+    "subtitle": "Open to fullstack roles and AI-heavy projects. I reply within 24 hours.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "copy": "Copy email",
+    "copied": "Copied!",
+    "errName": "Please enter your name.",
+    "errEmail": "That email doesn’t look right.",
+    "errMessage": "Message must be at least 10 characters.",
+    "opened": "Your email app has been opened."
+  },
+  "footer": { "built": "built with React + Vite", "deploy": "last deploy" },
+  "theme": { "toLight": "Switch to light theme", "toDark": "Switch to dark theme" },
+  "skip": "Skip to main content"
+}
